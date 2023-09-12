@@ -1,0 +1,31 @@
+.header {
+    height: 70px;
+    background-color: #2d28ff;
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+
+.header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.header nav img {
+    width: 30px;
+    height: 30px;
+}
+
+.header nav ul {
+    display: flex;
+}
+
+.header nav ul li {
+    color: #fff;
+    list-style: none;
+    margin-right: 20px;
+    font-size: 16px;
+}
+
